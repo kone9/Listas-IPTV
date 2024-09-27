@@ -6,6 +6,8 @@
 
 
 ## REPRODUCIR CON VLC:
+![vlc](vlc.png)
+
 
 Hay dos formas de reproducir, una es poniendo la lista completa y que VLC cargue los canales que funcionen y no funcionen
 Otra que para mi es la mejor, es poner el link. Por ejemplo el siguiente en medio/abrir ubicación de red para que solo abre un canal en especifico
