@@ -1,7 +1,7 @@
 # LISTAS DE REPRODUCCION IPTV, ALGUNOS FUNCIONAN OTROS NO FUNCIONAN.
 
 ## los canales en resolución 720 funcionan en una notebook con intel atom y 1gb de ram, por ejemplo retromagico
-## VLC funciona hasta en windows XP, asi que puede ser utilizado para mirar series animadas tranquilamente ya que es muchisimo más liviano que el buscador y ni hablar youtube
+## VLC funciona hasta en windows XP, asi que puede ser utilizado para mirar series animadas tranquilamente ya que es muchisimo más liviano que youtube, incluso más liviano que abrir cualquier navegador moderno
 
 
 REPRODUCIR CON VLC
