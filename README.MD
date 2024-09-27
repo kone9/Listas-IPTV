@@ -5,7 +5,8 @@
 ## VLC funciona hasta en windows XP, asi que puede ser utilizado para mirar series animadas tranquilamente ya que es muchisimo más liviano que youtube, incluso más liviano que abrir cualquier navegador moderno
 
 
-REPRODUCIR CON VLC
+## REPRODUCIR CON VLC:
+
 Hay dos formas de reproducir, una es poniendo la lista completa y que VLC cargue los canales que funcionen y no funcionen
 Otra que para mi es la mejor, es poner el link. Por ejemplo el siguiente en medio/abrir ubicación de red para que solo abre un canal en especifico
 ![canalSolo](canalSolo.png)
