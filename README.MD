@@ -17,7 +17,7 @@ https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 ![retromagico720](retromagico720.png)
 
 
-## ZTV: anime en full hd
+## ZTV: anime en full hd, NO FUNCIONA EN PC CON BAJOS REQUISITOS
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 
 
