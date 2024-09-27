@@ -24,6 +24,10 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 ![ztvHD](ztvHD.png)
 
 
+## ANIMESTATION: Canal falopa de dibujos pero con un aire shankee
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+
+
 ## Luego de agregar un canal iptv, volvera aparecer para seleccionar sin tener que volver a escribirla.
 ![listasGuardadas](listasGuardadas.png)
 
