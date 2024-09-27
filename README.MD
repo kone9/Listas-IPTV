@@ -1,12 +1,14 @@
 # LISTAS DE REPRODUCCION IPTV, ALGUNOS FUNCIONAN OTROS NO FUNCIONAN.
 
 ## los canales en resolución 720 funcionan en una notebook con intel atom y 1gb de ram con windows XP, por ejemplo retromagico
+![iptv_en_xp](iptv_en_xp.png)
+
 
 ## VLC funciona hasta en windows XP, asi que puede ser utilizado para mirar series animadas tranquilamente ya que es muchisimo más liviano que youtube, incluso más liviano que abrir cualquier navegador moderno
 
 
 ## REPRODUCIR CON VLC:
-![vlc](vlc.png)
+
 
 
 Hay dos formas de reproducir, una es poniendo la lista completa y que VLC cargue los canales que funcionen y no funcionen
