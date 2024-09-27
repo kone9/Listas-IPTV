@@ -1,0 +1,13 @@
+11.000 canales:
+https://iptv-org.github.io/iptv/index.m3u
+
+
+otra lista: RECOMENDADO ANIMESTATION
+https://m3u.cl/lista/AR.m3u
+
+
+anime: RECOMENDADO ZTV
+https://github.com/delmitv/lista-IPTV/blob/main/lista.m3u
+
+
+
