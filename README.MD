@@ -1,10 +1,11 @@
-# LISTAS DE REPRODUCCION IPTV, ALGUNOS FUNCIONAN OTROS NO FUNCIONAN.
+# LISTAS DE REPRODUCCION IPTV.
 
-## los canales en resolución 720 funcionan en una notebook con intel atom, 1gb de ram y con windows XP, por ejemplo retromagico
+# los canales en resolución 720 funcionan en una notebook con intel atom, 1gb de ram y con windows XP, por ejemplo retromagico
+## VLC funciona hasta en windows XP, asi que puede ser utilizado para mirar series animadas tranquilamente ya que es muchisimo más liviano que youtube, incluso más liviano que abrir cualquier navegador moderno
 ![iptv_en_xp](iptv_en_xp.jpg)
 
 
-## VLC funciona hasta en windows XP, asi que puede ser utilizado para mirar series animadas tranquilamente ya que es muchisimo más liviano que youtube, incluso más liviano que abrir cualquier navegador moderno
+
 
 
 ## REPRODUCIR CON VLC:
@@ -40,3 +41,6 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 ejemplo video youtube reproducir medio de red.
 https://www.youtube.com/watch?v=koKlpg6sN28
+
+
+## ALGUNOS CANALES FUNCIONAN OTROS NO FUNCIONAN
