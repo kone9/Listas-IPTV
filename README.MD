@@ -24,7 +24,7 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 ![ztvHD](ztvHD.png)
 
 
-## Luego de agregar algo a la lista, volvera aparecer para seleccionarla sin tener que volver a escribirla.
+## Luego de agregar un canal iptv, volvera aparecer para seleccionar sin tener que volver a escribirla.
 ![listasGuardadas](listasGuardadas.png)
 
 
