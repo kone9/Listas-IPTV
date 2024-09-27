@@ -43,4 +43,4 @@ ejemplo video youtube reproducir medio de red.
 https://www.youtube.com/watch?v=koKlpg6sN28
 
 
-## ALGUNOS CANALES FUNCIONAN OTROS NO FUNCIONAN
+## NOTA: ALGUNOS CANALES FUNCIONAN OTROS NO FUNCIONAN
