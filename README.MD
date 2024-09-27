@@ -1,6 +1,6 @@
 # LISTAS DE REPRODUCCION IPTV, ALGUNOS FUNCIONAN OTROS NO FUNCIONAN.
 
-## los canales en resolución 720 funcionan en una notebook con intel atom y 1gb de ram con windows XP, por ejemplo retromagico
+## los canales en resolución 720 funcionan en una notebook con intel atom, 1gb de ram y con windows XP, por ejemplo retromagico
 ![iptv_en_xp](iptv_en_xp.png)
 
 
