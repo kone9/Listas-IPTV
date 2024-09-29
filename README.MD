@@ -8,17 +8,15 @@
 
 
 
-## REPRODUCIR CON VLC:
+# REPRODUCIR CON VLC:
 
-
-
-Hay tres formas de reproducir
+## Hay tres formas de reproducir
 
 ## *Cargando ListaReproduccionoVLCPersonal.m3u8 como lista de reproducción
 
 ## *Poniendo la lista completa y que VLC cargue los canales que funcionen y no funcionen en en medio/abrir ubicación de red
 
-## poner el link de una sola página. Por ejemplo en medio/abrir ubicación de red para que solo abre un canal en especifico
+## Poner el link de una sola página. Por ejemplo en medio/abrir ubicación de red para que solo abre un canal en especifico
 ![canalSolo](canalSolo.png)
 
 
