@@ -44,3 +44,20 @@ https://www.youtube.com/watch?v=koKlpg6sN28
 
 
 ## NOTA: ALGUNOS CANALES FUNCIONAN OTROS NO FUNCIONAN
+
+
+
+-------------->CANALES ANIME RECOMENDADO<-------------------
+
+RETROMAGICO
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+
+ZTV Anime
+https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
+
+
+
+-------------->CANALES CINE RECOMENDADO<-------------------
+
++CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
