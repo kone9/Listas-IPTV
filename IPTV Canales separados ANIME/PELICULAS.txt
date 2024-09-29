@@ -1,16 +1,14 @@
--------------->CANALES ANIME RECOMENDADO<-------------------
-
-RETROMAGICO
+RETROMAGICO -> CALIDAD 720
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
-ZTV Anime
+ZTV Anime -> CALIDAD 1080
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 
 
 
 -------------->CANALES CINE RECOMENDADO<-------------------
 
-+CINE
++CINE -> CALIDAD 1080
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
 
