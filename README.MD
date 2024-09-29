@@ -6,6 +6,23 @@
 
 
 
+-------------->CANALES ANIME RECOMENDADO<-------------------
+
+RETROMAGICO -> CALIDAD 720
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+
+ZTV Anime -> CALIDAD 1080
+https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
+
+
+
+-------------->CANALES CINE RECOMENDADO<-------------------
+
++CINE -> CALIDAD 1080
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+
+
 
 
 # REPRODUCIR CON VLC:
@@ -34,7 +51,7 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 ![ztvHD](ztvHD.png)
 
 
-## ANIMESTATION: Canal falopa de dibujos pero con un aire shankee
+## ANIMESTATION: Canal falopa de dibujos
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 
@@ -48,19 +65,3 @@ https://www.youtube.com/watch?v=koKlpg6sN28
 
 ## NOTA: ALGUNOS CANALES FUNCIONAN OTROS NO FUNCIONAN
 
-
-
--------------->CANALES ANIME RECOMENDADO<-------------------
-
-RETROMAGICO -> CALIDAD 720
-https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-
-ZTV Anime -> CALIDAD 1080
-https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
-
-
-
--------------->CANALES CINE RECOMENDADO<-------------------
-
-+CINE -> CALIDAD 1080
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
