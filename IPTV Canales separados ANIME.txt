@@ -1,3 +1,25 @@
+-------------->CANALES ANIME RECOMENDADO<-------------------
+
+RETROMAGICO
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+
+ZTV Anime
+https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
+
+
+
+-------------->CANALES CINE RECOMENDADO<-------------------
+
++CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+
+
+
+
+
+----------------------TODOS LOS CANALES------------------------------------------------------------------------------------------------------
+
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-name="ZPlayTV Demo Contrata nuestra vesiÃ³n full" tvg-id="Ztv" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZPlayTV Demo Contrata nuestra vesiÃ³n full HD
@@ -351,8 +373,11 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/man
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bH6Cg7r/logo-ETB-Basque.png" group-title="SPAIN",ETB BASQUE HD
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2yxYKHx/logo-Rakuten-TV-Comedia.png" group-title="SPAIN",Rakuten TV Comedia HD
+
 http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/99xVwy9/logo-Distrito-TV.png" group-title="SPAIN",Distrito TV HD
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9bqNXJZ/logo-Interalmeria-TV.png" group-title="SPAIN",interalmeria tv HD
@@ -425,16 +450,29 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/variado/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M2wqPgQ/Logo-Plus-Cine.png" group-title="LATINO",Plus Cine
+
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XzV37y1/Logo-Terror-TV.png" group-title="LATINO",Terror TV
+
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/G04k3Z4/Logo-Memorias-Film.png" group-title="LATINO",Memorias Film HD
+
 https://stmv6.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD
 https://adp.fk9.pw:30443/edge/ver107ad4cc88ebcf9712d02deb824d6b6d/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD (opcion 2)
 https://cdnhd.iblups.com/hls/dlcjWhjkPu.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k9YDwcp/Logo-Sony-Canal-Comedias.png" group-title="LATINO",Sony Canal Comedias
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/z5QWrWp/Logo-Sony-Canal-Competencias.png" group-title="LATINO",Sony Canal Competencias
@@ -521,20 +559,36 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fSYwbt7.png" group-title="LATINO",Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f0RhdYn.jpg" group-title="LATINO",Cinerama TV
+
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SiGxs6L.png" group-title="LATINO",Free TV HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hax4UL.png" group-title="LATINO",Juntos HD
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/klBO9Zw.png" group-title="LATINO",Tu Cine HD
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BA7IVJv.png" group-title="LATINO",Cine Sureno HD
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JbnWhDR.png" group-title="LATINO",Cine Real HD
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2ceJnWz.png" group-title="LATINO",Horrorfy HD
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 1 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 1 HD
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="LATINO",TV Costa
@@ -549,8 +603,12 @@ https://tv.streaming-chile.com:1936/8030/8030/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SXTD6Iu.jpg" group-title="LATINO",FMTV HD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="LATINO",Chilevisual  Film HD
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZmGtwL.jpg" group-title="LATINO",Canal Ame 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c2PComT.png" group-title="LATINO",Global TV HD
