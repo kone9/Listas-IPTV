@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:32,video.m3u8?token=D4lm1R0m-tFJES
+#EXTVLCOPT:network-caching=1000
+https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:24,8142.m3u8
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
